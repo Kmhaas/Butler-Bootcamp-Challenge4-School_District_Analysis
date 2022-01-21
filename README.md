@@ -62,7 +62,7 @@
 
 
 
-   * Thomas High Schools' 9th Grade math and reading scores are replaced with NA.
+   * Thomas High Schools' 9th Grade math and reading scores are replaced with NaN.
 
    * Scores by school spending (with Thomas High School 9th Graders)
 ![perschool_spending(withTHS9th)](https://user-images.githubusercontent.com/93004710/150575838-72511827-9a42-4953-8401-c2a54bcb0ecf.png)
@@ -101,4 +101,4 @@
    * Without Thomas High School 9th Graders, Thomas High School in the charter school type percent passing math went from 90% to 94%, percent passing reading went from 93% to 97%, and the overall percent passing went from 87% to 90%.
 
 ## Summary
-* After the changes to the school district analysis after reading and math scores have been replaced for Thomas High Schools' 9th Graders with N/A changes in the overall student count were affected along with percent passing math, percent passing reading, and percent overall passing throughout the analysis resulting in changing the position of Thomas High School being a top performing school in the district.
+* After the changes to the school district analysis after reading and math scores have been replaced for Thomas High Schools' 9th Graders with NaN changes in the overall student count were affected along with percent passing math, percent passing reading, and percent overall passing throughout the analysis resulting in changing the position of Thomas High School being a top performing school in the district.
